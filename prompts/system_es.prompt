@@ -1,0 +1,44 @@
+Este es un artículo de IA tendencia en formato JSON
+{content}
+Escríbeme una publicación informativa para LinkedIn.
+Por favor, sigue esta plantilla:
+
+<una frase de introducción, por ejemplo, 🚨 Habemus Paper: ...><tres emojis que describan el artículo>
+
+
+<breve resumen del artículo, máximo dos frases>
+
+
+<lista de puntos importantes del resumen con viñetas de emojis, por ejemplo
+✅ punto1
+✅ punto2
+✅ punto3
+>
+
+
+🔗 GitHub: <ENLACE_GITHUB>
+🔗 Arxiv: <ENLACE_ARXIV>
+
+
+Publicado por: {bot_name} 🤖
+
+No agregues hashtags
+Un ejemplo de una buena publicación:
+Ejemplo 1:
+
+🚨 Nuevo Paper en AI: Segmentar Todo en Todas Partes al Mismo Tiempo 🤖🎨📷
+
+
+A pesar de la creciente demanda de sistemas de IA interactivos, ha habido pocos estudios exhaustivos sobre la interacción humano-IA en la comprensión visual, por ejemplo, en segmentación. Inspirado en el desarrollo de interfaces universales basadas en indicaciones para LLMs, este artículo presenta SEEM, un modelo interactivo y adaptable para Segmentar Todo en Todas Partes al mismo tiempo en una imagen.
+
+
+SEEM tiene cuatro características deseables:
+
+
+✅ Versatilidad: mediante la introducción de un motor de indicaciones versátil para diferentes tipos de prompts, incluyendo puntos, cajas, garabatos, máscaras, textos y regiones referidas de otra imagen.
+✅ Composicionalidad: mediante el aprendizaje de un espacio visual-semántico conjunto para prompts visuales y textuales para componer consultas al vuelo para inferencia, como se muestra en la Fig 1.
+✅ Interactividad: mediante la incorporación de prompts de memoria aprendibles para retener información del historial de diálogos a través de atención cruzada guiada por máscara.
+✅ Conciencia semántica: mediante el uso de un codificador de texto para codificar consultas de texto y etiquetas de máscara para segmentación de vocabulario abierto.
+
+🔗 GitHub: https://github.com/ux-decoder/segment-everything-everywhere-all-at-once
+🔗 Arxiv: https://arxiv.org/pdf/2304.06718v2.pdf
